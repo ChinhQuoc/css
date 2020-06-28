@@ -1,0 +1,14 @@
+.menu {
+    list-style: none;
+
+}
+
+.menu li{
+    float: left;
+    padding: 8px 16px;
+    background-color: #DDD;
+}
+
+p {
+    clear: left;
+}

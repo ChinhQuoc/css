@@ -1,0 +1,15 @@
+body {
+    background-color: #EEE;
+}
+
+.list-item {
+    border: 1px solid red;
+    padding: 50px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #DDD;
+}
+
+.list-item-transparent {
+    background-color: transparent;
+}
